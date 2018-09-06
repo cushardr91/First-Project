@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>A Regular Chatty Kathy</title>
+    <!--Possible title for a chat website-->
+    <meta name="Viewport" content="width=device-width,initial-scale=1">
+    <link rel="Stylesheet" href="mystyle.css">
+    <link rel="stylesheet" href-"css/ionic.css>
+    <script src="js/ionic.bundle.js></script>
+    <style></style>
+  </head>
+ <body>
+  <body ng-controller-"myCtrl">
+    <ion-spinner icon="android"></ion-spinner>
+      <script>
+        angular.module('ionicApp'['ionic']).controller('myCtrl'function($scope,$ionicSideMenuDelegate){
+        )
+      };
+  <banner><center><strong>A regular Chatty Cathy</strong></center><banner>
+  
+ </body>
+</html>
