@@ -1,0 +1,5 @@
+<ion-spinner icon="android"></ion-spinner>
+<script>
+  angular.module('ionicApp' , ['ionic']).controller('myCtrl', function($scope,$ionicSideMenuDelegate){
+    });
+</script>
