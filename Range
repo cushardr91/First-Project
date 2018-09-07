@@ -1,0 +1,9 @@
+<div class="bar bar-header,bar-balanced>
+ <h1 class"title">Range</h1>
+  </div>
+ <div style="margin-top:50px">
+ <div class="item range">
+ <input type="range">
+ </div>
+ </div>
+ 
